@@ -13,5 +13,7 @@
 - [MatthewTGM's Support Server][SupportServerInvite]
 - MCP (Minecraft Coder Pack) PvP Client for Minecraft 1.8.9
 
+[![MatthewTGM's github stats](https://github-readme-stats.vercel.app/api?username=MatthewTGM)](https://github.com/anuraghazra/github-readme-stats)
+
 [Website]: https://matthewtgm.ga/
 [SupportServerInvite]: https://discord.gg/7BUb7Qu
