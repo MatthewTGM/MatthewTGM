@@ -14,4 +14,4 @@
 - MCP (Minecraft Coder Pack) PvP Client for Minecraft 1.8.9
 
 [Website]: https://matthewtgm.ga/
-[SupportServerInite]: https://discord.gg/7BUb7Qu
+[SupportServerInvite]: https://discord.gg/7BUb7Qu
