@@ -7,6 +7,11 @@
 - C++
 - Markdown
 
+## Communication
+- Discord: MatthewTGM#4058
+- Twitter: [@matthewtgmreal][Twitter]
+- Instagram: [MatthewTGM_YT][Instagram]
+
 ## Projects
 - Hypixel Bot
 - Hypixel Skyblock Calculator
@@ -17,3 +22,5 @@
 
 [Website]: https://matthewtgm.ga/
 [SupportServerInvite]: https://discord.gg/7BUb7Qu
+[Twitter]: https://twitter.com/matthewtgmreal
+[Instagram]: https://instagram.com/matthewtgm_yt
