@@ -1,6 +1,6 @@
-Hello There! I'm [MatthewTGM][Website], A Developer, Influencer and gamer
+# Hello There! I'm [MatthewTGM][Website], A Developer, Influencer and gamer
 
-# Currently Learning
+## Currently Learning
 - Java
 - JavaScript
 - C#
