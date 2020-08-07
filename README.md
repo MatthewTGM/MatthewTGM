@@ -1,4 +1,4 @@
-Hello There! I'm [MatthewTGM][Youtube]
+Hello There! I'm [MatthewTGM][Website], A Developer, Influencer, Gamer
 
 
-[Youtube]: https://matthewtgm.ga/
+[Website]: https://matthewtgm.ga/
