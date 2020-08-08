@@ -13,7 +13,7 @@
 - Instagram: [MatthewTGM_YT][Instagram]
 
 ## Projects
-- Hypixel Bot [[top.gg][https://top.gg/bot/730063696130211901] [GitHub][https://github.com/matthewtgm/hypixel-bot]]
+- Hypixel Bot [[top.gg][TopGGHypixelBot] [GitHub][GitHubHypixelBot]]
 - Hypixel Skyblock Calculator
 - [MatthewTGM's Support Server][SupportServerInvite]
 - MCP (Minecraft Coder Pack) PvP Client for Minecraft 1.8.9
@@ -24,3 +24,6 @@
 [SupportServerInvite]: https://discord.gg/7BUb7Qu
 [Twitter]: https://twitter.com/matthewtgmreal
 [Instagram]: https://instagram.com/matthewtgm_yt
+
+[TopGGHypixelBot]: https://top.gg/bot/730063696130211901
+[GitHubHypixelBot]: https://github.com/matthewtgm/hypixel-bot
