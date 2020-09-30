@@ -13,10 +13,14 @@
 - Instagram: [MatthewTGM_YT](https://instagram.com/matthewtgm_yt)
 
 ## Projects
-- Hypixel Bot [[top.gg](https://top.gg/bot/730063696130211901)] [[GitHub](https://github.com/matthewtgm/hypixel-bot)]
+### Hypixel Bot
+- Hypixel Bot [[top.gg](https://top.gg/bot/730063696130211901)] [[GitHub](https://github.com/matthewtgm/hypixel-bot)]\
+[![Discord Bots](https://top.gg/api/widget/730063696130211901.svg)](https://top.gg/bot/730063696130211901)
+
+## Other
 - Hypixel Skyblock Calculator
 - MatthewTGM's Support Server [[Join](tps://discord.gg/7BUb7Qu)]
 
-[![Discord Bots](https://top.gg/api/widget/730063696130211901.svg)](https://top.gg/bot/730063696130211901)\
+## Stats
 [![MatthewTGM's github stats](https://github-readme-stats.vercel.app/api?username=MatthewTGM)](https://github.com/anuraghazra/github-readme-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewTGM&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
