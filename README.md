@@ -19,6 +19,7 @@
 
 [![Discord Bots](https://top.gg/api/widget/730063696130211901.svg)](https://top.gg/bot/730063696130211901)\
 [![MatthewTGM's github stats](https://github-readme-stats.vercel.app/api?username=MatthewTGM)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewTGM&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [Website]: https://matthewtgm.ga/
 [SupportServerInvite]: https://discord.gg/7BUb7Qu
