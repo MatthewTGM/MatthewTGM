@@ -19,7 +19,7 @@
 
 ## Other
 - Hypixel Skyblock Calculator
-- MatthewTGM's Support Server [[Join](tps://discord.gg/7BUb7Qu)]
+- MatthewTGM's Support Server [[Join](https://discord.gg/7BUb7Qu)]
 
 ## Stats
 [![MatthewTGM's github stats](https://github-readme-stats.vercel.app/api?username=MatthewTGM)](https://github.com/anuraghazra/github-readme-stats)\
