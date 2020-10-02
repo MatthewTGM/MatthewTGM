@@ -1,5 +1,6 @@
 # Hello There! I'm [MatthewTGM](https://matthewtgm.ga/), A Developer, Influencer and gamer
 ![MatthewTGM's Profile Views](https://komarev.com/ghpvc/?username=MatthewTGM)
+<a href="https://discord.gg/XZ2TdQs"><img src="https://discordapp.com/api/guilds/662631480492818454/widget.png?style=banner2" alt="Discord Server"></a>
 ## Currently Learning
 - Java
 - JavaScript
