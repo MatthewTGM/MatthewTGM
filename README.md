@@ -18,6 +18,9 @@
 - Hypixel Bot [[top.gg](https://top.gg/bot/730063696130211901)] [[GitHub](https://github.com/matthewtgm/hypixel-bot)]\
 [![Discord Bots](https://top.gg/api/widget/730063696130211901.svg)](https://top.gg/bot/730063696130211901)
 
+### TeamTGM
+- Invite: <a href="https://discord.gg/XZ2TdQs"><img src="https://discordapp.com/api/guilds/662631480492818454/widget.png?style=banner2" alt="Discord Server"></a>
+
 ## Other
 - Hypixel Skyblock Calculator
 - MatthewTGM's Support Server [[join](https://discord.gg/7BUb7Qu)]
