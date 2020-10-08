@@ -1,10 +1,13 @@
 # Hello There! I'm [MatthewTGM](https://matthewtgm.ga/), A Developer, Influencer and gamer
 ![MatthewTGM's Profile Views](https://komarev.com/ghpvc/?username=MatthewTGM)
-## Currently Learning
+## Currently Learning (Percentages are an average of how much I believe I know/understand)
+- C# (57%)
+- C++ (0%)
+
+## My Languages
 - Java
+- JavaScript (Node.js)
 - JavaScript
-- C#
-- C++
 - Markdown
 
 ## Communication
