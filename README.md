@@ -2,6 +2,7 @@
 ![MatthewTGM's Profile Views](https://komarev.com/ghpvc/?username=MatthewTGM)
 ## Currently Learning (Percentages are an average of how much I believe I know/understand)
 - C# (57%)
+- Python (20%)
 - C++ (0%)
 
 ## My Languages
