@@ -1,5 +1,6 @@
 # Hello There! I'm [MatthewTGM](https://matthewtgm.ga/), A Developer, YouTuber, Streamer and Gamer
 ![MatthewTGM's Profile Views](https://komarev.com/ghpvc/?username=MatthewTGM)
+![ILY Basilicous](https://img.shields.io/badge/ILY-Basil-critical)
 ## Currently Learning (Percentages are an average of how much I believe I know/understand)
 - C# (57%)
 - Python (20%)
