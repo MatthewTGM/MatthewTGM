@@ -19,15 +19,15 @@
 
 ## Projects
 ### Gopine Client
-- Gopine Discord [[Join here](https://discord.gg/ThaZrzr)]\
+- Gopine Discord [[Join here](https://discord.gg/ThaZrzr)]
 - Gopine Client Repository [[here](https://github.com/GopineClient/gopine-client)]
 ### Hypixel Bot
-- Hypixel Bot [[top.gg](https://top.gg/bot/730063696130211901)] [[GitHub](https://github.com/matthewtgm/hypixel-bot)]\
-- Hypixel Bot API [[Base URL](http://hypixelbot.ga:2158/api)]\
+- Hypixel Bot [[top.gg](https://top.gg/bot/730063696130211901)] [[GitHub](https://github.com/matthewtgm/hypixel-bot)]
+- Hypixel Bot API [[Base URL](http://hypixelbot.ga:2158/api)]
 [![Discord Bots](https://top.gg/api/widget/730063696130211901.svg)](https://top.gg/bot/730063696130211901)
 
 ### TeamTGM
-- Invite [[join here](https://discord.gg/XZ2TdQs)]\
+- Invite [[join here](https://discord.gg/XZ2TdQs)]
 <a href="https://discord.gg/XZ2TdQs"><img src="https://discordapp.com/api/guilds/662631480492818454/widget.png?style=banner2" alt="Discord Server"></a>
 
 ## Other
