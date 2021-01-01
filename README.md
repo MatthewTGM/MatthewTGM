@@ -1,29 +1,29 @@
+<div align="center">
+
 # Hello There! I'm [MatthewTGM](https://matthewtgm.ga/), A Developer, YouTuber, Streamer and Gamer
+
 ![MatthewTGM's Profile Views](https://komarev.com/ghpvc/?username=MatthewTGM)
-![ILY Basilicous](https://img.shields.io/badge/ILY-Basil-critical)
-## Currently Learning (Percentages are an average of how much I believe I know/understand)
-- C# (57%)
-- Python (20%)
-- C++ (0%)
+![ily Basilicous ❤](https://img.shields.io/badge/ILY-Basil-critical)
+
+</div>
 
 ## My Languages
 - Java
 - JavaScript (Node.js)
 - JavaScript
+- Python (partially)
+- HTML, CSS and PHP
 - Markdown
 
 ## Communication
-- Discord: MatthewTGM#4058
+- Discord: MatthewTGM#2056
 - Twitter: [@matthewtgmreal](https://twitter.com/matthewtgmreal)
 - Instagram: [MatthewTGM_YT](https://instagram.com/matthewtgm_yt)
 
 ## Projects
-### Gopine Client
-- Gopine Discord [[Join here](https://discord.gg/ThaZrzr)]
-- Gopine Client Repository [[here](https://github.com/GopineClient/gopine-client)]
 ### Hypixel Bot
-- Hypixel Bot [[top.gg](https://top.gg/bot/730063696130211901)] [[GitHub](https://github.com/matthewtgm/hypixel-bot)]
-- Hypixel Bot API [[Base URL](http://hypixelbot.ga:2158/api)]\
+- Hypixel Bot [[top.gg](https://top.gg/bot/730063696130211901)] [[GitHub](https://github.com/matthewtgm/hypixel-bot) [Website](https://hypixelbot.ga)]
+- Hypixel Bot API [[Base URL](http://hypixelbot.ga/api)]\
 [![Discord Bots](https://top.gg/api/widget/730063696130211901.svg)](https://top.gg/bot/730063696130211901)
 
 ### TeamTGM
@@ -32,7 +32,7 @@
 
 ## Other
 - Hypixel Skyblock Calculator
-- MatthewTGM's Support Server [[join](https://discord.gg/7BUb7Qu)]
+- MatthewTGM's Support Server [[Join](https://discord.gg/7BUb7Qu)]
 
 ## Stats
 [![MatthewTGM's github stats](https://github-readme-stats.vercel.app/api?username=MatthewTGM)](https://github.com/anuraghazra/github-readme-stats)\
