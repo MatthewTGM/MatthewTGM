@@ -3,9 +3,14 @@
 # Hello There! I'm [MatthewTGM](https://matthewtgm.ga/), A Developer, YouTuber, Streamer and Gamer
 
 ![MatthewTGM's Profile Views](https://komarev.com/ghpvc/?username=MatthewTGM)
-![ily Basilicous ❤](https://img.shields.io/badge/ILY-Basil-critical)
+![ILY Basilicous ❤](https://img.shields.io/badge/ILY-Basil-critical)
 
 </div>
+
+## About
+I'm a Java and web developer.
+Most of my projects are mods for the voxel game "[Minecraft](https://minecraft.net/)".
+I own the organization "[TGMDevelopment](https://github.com/TGMDevelopment)" which is how I handle my Minecraft mods.
 
 ## My Languages
 - Java
