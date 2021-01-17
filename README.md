@@ -3,7 +3,7 @@
 # Hello There! I'm [MatthewTGM](https://matthewtgm.ga/), A Developer, YouTuber, Streamer and Gamer
 
 ![MatthewTGM's Profile Views](https://komarev.com/ghpvc/?username=MatthewTGM)
-<a href="https://github.com/Basilicous"><img src="https://img.shields.io/badge/ILY-Basil-critical" alt="ILY Basilicous ❤"></a>
+<a href="https://github.com/LowSpecCorgi"><img src="https://img.shields.io/badge/ILY-Basil-critical" alt="ILY Basilicous ❤"></a>
 
 </div>
 
