@@ -34,7 +34,7 @@ I own the organization "[TGMDevelopment](https://github.com/TGMDevelopment)" whi
 </details>
 
 <details>
-  <summary>TeamTGM</summary>
+  <summary>TGMDevelopment</summary>
   
 - Invite [[Join here](https://discord.gg/4uqEKDjhyj)]\
 <a href="https://discord.gg/4uqEKDjhyj"><img src="https://discordapp.com/api/guilds/733546808768462908/widget.png?style=banner2" alt="Discord Server"></a>
