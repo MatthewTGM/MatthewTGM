@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello There! I'm [MatthewTGM](https://matthewtgm.xyz/), A Developer, YouTuber, Streamer and Gamer
+# Hello There! I'm [MatthewTGM](https://matthewtgm.xyz/), A [developer](https://github.com/MatthewTGM), [YouTuber](https://youtube.com/MatthewTGM), streamer and gamer
 
 ![MatthewTGM's Profile Views](https://komarev.com/ghpvc/?username=MatthewTGM)
 <a href="https://github.com/LowSpecCorgi"><img src="https://img.shields.io/badge/ILY-Basil-critical" alt="ILY Basilicous ❤"></a>
