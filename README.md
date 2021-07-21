@@ -22,7 +22,7 @@ I own the organization "[TGMDevelopment](https://github.com/TGMDevelopment)" whi
 - Markdown
 
 ## Communication
-- Discord: MatthewTGM#5460
+- Discord: MatthewTGM#0001
 - Twitter: [@matthewtgmreal](https://twitter.com/matthewtgmreal)
 - Instagram: [MatthewTGM_YT](https://instagram.com/matthewtgm_yt)
 
