@@ -16,8 +16,9 @@ I own the organization "[TGMDevelopment](https://github.com/TGMDevelopment)" whi
 - JavaScript (Node.js)
 - JavaScript
 - TypeScript
-- Kotlin (partially)
+- Kotlin
 - HTML, CSS and PHP
+- SQL
 - Markdown
 
 ## Communication
