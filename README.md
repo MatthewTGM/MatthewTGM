@@ -40,10 +40,10 @@ I own the organization "[TGMDevelopment](https://github.com/TGMDevelopment)" whi
 <a href="https://discord.gg/4uqEKDjhyj"><img src="https://discordapp.com/api/guilds/733546808768462908/widget.png?style=banner2" alt="Discord Server"></a>
 ## Projects
 ### Forge Mods
+- TGMLib
 - Terbium
 - SimpleHUD
 - SkyBlockBonus
-- Modern Sidebar Mod
 - MultiChunk
   
 ### Fabric Mods
@@ -55,6 +55,9 @@ I own the organization "[TGMDevelopment](https://github.com/TGMDevelopment)" whi
 ### Libraries
 - TGMConfig
 - JsonTGM
+- Basic Tasking Framework
+- EasyCommandFramework
+- SimpleEventBus
 
 </details>
 
