@@ -26,14 +26,6 @@ I own the organization "[TGMDevelopment](https://github.com/TGMDevelopment)" whi
 - Instagram: [MatthewTGM_YT](https://instagram.com/matthewtgm_yt)
 
 <details>
-  <summary>TeamTGM</summary>
-  
-- Invite [[Join here](https://discord.gg/XZ2TdQs)]\
-<a href="https://discord.gg/XZ2TdQs"><img src="https://discordapp.com/api/guilds/662631480492818454/widget.png?style=banner2" alt="Discord Server"></a>
-
-</details>
-
-<details>
   <summary>TGMDevelopment</summary>
   
 - Invite [[Join here](https://discord.gg/4uqEKDjhyj)]\
