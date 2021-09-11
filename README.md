@@ -1,15 +1,7 @@
-<div align="center">
+# Hello There! I'm [Deftu](https://deftu.xyz/), A [developer](https://github.com/Deftu) and gamer
 
-# Hello There! I'm [MatthewTGM](https://matthewtgm.xyz/), A [developer](https://github.com/MatthewTGM), [YouTuber](https://youtube.com/MatthewTGM), streamer and gamer
-
-![MatthewTGM's Profile Views](https://komarev.com/ghpvc/?username=MatthewTGM)
+![Deftu's Profile Views](https://komarev.com/ghpvc/?username=Deftu)
 <a href="https://github.com/LowSpecCorgi"><img src="https://img.shields.io/badge/ILY-Basil-critical" alt="ILY Basilicous ❤"></a>
-
-</div>
-
-## About
-Most of my projects are mods for the voxel game "[Minecraft](https://minecraft.net/)".\
-I own the organization "[TGMDevelopment](https://github.com/TGMDevelopment)" which is how I handle my Minecraft mods.
 
 ## My Languages
 - Java
@@ -22,38 +14,9 @@ I own the organization "[TGMDevelopment](https://github.com/TGMDevelopment)" whi
 - Markdown
 
 ## Communication
-- Discord: MatthewTGM#0001
-- Twitter: [@matthewtgmreal](https://twitter.com/matthewtgmreal)
-- Instagram: [MatthewTGM_YT](https://instagram.com/matthewtgm_yt)
-
-<details>
-  <summary>TGMDevelopment</summary>
-  
-- Invite [[Join here](https://discord.gg/4uqEKDjhyj)]\
-<a href="https://discord.gg/4uqEKDjhyj"><img src="https://discordapp.com/api/guilds/733546808768462908/widget.png?style=banner2" alt="Discord Server"></a>
-## Projects
-### Forge Mods
-- TGMLib
-- Terbium
-- SimpleHUD
-- SkyBlockBonus
-- MultiChunk
-  
-### Fabric Mods
-- FabricEvents
-  
-### Bukkit Plugins
-- SpigotLib
-  
-### Libraries
-- TGMConfig
-- JsonTGM
-- Basic Tasking Framework
-- EasyCommandFramework
-- SimpleEventBus
-
-</details>
+- Discord: Deftu#0001
+- Twitter: [@matthewtgmreal](https://twitter.com/realdeftu)
 
 ## Stats
-[![MatthewTGM's github stats](https://github-readme-stats.vercel.app/api?username=MatthewTGM)](https://github.com/anuraghazra/github-readme-stats)\
-[![Top 10 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewTGM&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Deftu's github stats](https://github-readme-stats.vercel.app/api?username=Deftu)](https://github.com/anuraghazra/github-readme-stats)\
+[![Top 10 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deftu&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
