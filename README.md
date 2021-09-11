@@ -15,7 +15,7 @@
 
 ## Communication
 - Discord: Deftu#0001
-- Twitter: [@matthewtgmreal](https://twitter.com/realdeftu)
+- Twitter: [@RealDeftu](https://twitter.com/RealDeftu)
 
 ## Stats
 [![Deftu's github stats](https://github-readme-stats.vercel.app/api?username=Deftu)](https://github.com/anuraghazra/github-readme-stats)\
