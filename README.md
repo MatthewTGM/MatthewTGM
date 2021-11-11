@@ -1,7 +1,6 @@
 # Hello There! I'm [Deftu](https://deftu.xyz/), A [developer](https://github.com/Deftu) and gamer
 
 ![Deftu's Profile Views](https://komarev.com/ghpvc/?username=Deftu)
-<a href="https://github.com/LowSpecCorgi"><img src="https://img.shields.io/badge/ILY-Basil-critical" alt="ILY Basilicous ❤"></a>
 
 ## My Languages
 - Java
