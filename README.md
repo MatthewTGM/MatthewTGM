@@ -1,4 +1,4 @@
-# Hello There! I'm [Deftu](https://deftu.xyz/), a developer and gamer
+# Hello there! I'm [Deftu](https://deftu.xyz/), a developer and gamer
 
 ## My Languages
 - Java
