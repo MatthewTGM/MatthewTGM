@@ -27,8 +27,6 @@
 - [The end of the Requisite organization.](https://www.youtube.com/watch?v=L4QzY9gtle4)
 <!-- YOUTUBE:END -->
 
----
-
 [twitter]: https://twitter.com/@RealDeftu
 [youtube]: https://www.youtube.com/channel/UCJAR--rGr012udfBDBwHO-g
 [instagram]: https://www.instagram.com/deftudev/
