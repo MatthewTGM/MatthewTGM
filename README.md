@@ -10,12 +10,21 @@
 - SQL
 - Markdown
 
+---
+
 ## Connections
 - [Twitter][twitter]
 - [YouTube][youtube]
 - [Instagram][instagram]
 - [Discord][discord]
 - [LinkedIn][linkedin]
+
+---
+
+# Latest YouTube content
+
+
+---
 
 [twitter]: https://twitter.com/@RealDeftu
 [youtube]: https://www.youtube.com/channel/UCJAR--rGr012udfBDBwHO-g
