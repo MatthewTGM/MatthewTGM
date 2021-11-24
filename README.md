@@ -23,6 +23,8 @@
 
 # Latest YouTube content
 <!-- YOUTUBE:START -->
+- [The end of my old server.](https://www.youtube.com/watch?v=r-Le0hKLcgQ)
+- [The end of the Requisite organization.](https://www.youtube.com/watch?v=L4QzY9gtle4)
 <!-- YOUTUBE:END -->
 
 ---
