@@ -1,14 +1,13 @@
-# Hello there! I'm [Deftu](https://deftu.xyz/), a developer and gamer.
+# Hello there! 👋
+# I'm [Deftu][website], a developer and gamer.
 
-## My Languages
+## My Languages 💬
 - Java
-- JavaScript (Node.js)
+- Kotlin
+- Groovy
 - JavaScript
 - TypeScript
-- Kotlin
-- HTML, CSS and PHP
-- SQL
-- Markdown
+- Python
 
 ---
 
@@ -32,6 +31,7 @@
 ## GitHub stats
 [![Deftu's GitHub stats](https://github-readme-stats.vercel.app/api?username=deftu&show_icons=true&hide_border=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
+[website]: https://deftu.xyz/
 [twitter]: https://twitter.com/@RealDeftu
 [youtube]: https://www.youtube.com/channel/UCJAR--rGr012udfBDBwHO-g
 [instagram]: https://www.instagram.com/deftudev/
