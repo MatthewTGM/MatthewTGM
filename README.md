@@ -1,7 +1,8 @@
 # Hello there! 👋
-# I'm [Deftu][website], a developer and gamer.
 
-## My Languages 💬
+## I'm [Deftu][website], a developer and gamer.
+
+### My Languages 💬
 - Java
 - Kotlin
 - Groovy
@@ -11,7 +12,7 @@
 
 ---
 
-## Connections 🔗
+### Connections 🔗
 - [Twitter][twitter]
 - [YouTube][youtube]
 - [Instagram][instagram]
@@ -20,7 +21,7 @@
 
 ---
 
-## Latest YouTube content ▶
+### Latest YouTube content ▶
 <!-- YOUTUBE:START -->
 - [The end of my old server.](https://www.youtube.com/watch?v=r-Le0hKLcgQ)
 - [The end of the Requisite organization.](https://www.youtube.com/watch?v=L4QzY9gtle4)
@@ -28,7 +29,7 @@
 
 ---
 
-## GitHub stats 
+### GitHub stats 📜
 [![Deftu's GitHub stats](https://github-readme-stats.vercel.app/api?username=deftu&show_icons=true&hide_border=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://deftu.xyz/
