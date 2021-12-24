@@ -1,6 +1,10 @@
 # Hello there! 👋
 
 ## I'm [Deftu][website], a developer and gamer.
+![status](https://dev.discordprofiles.me/badge/status/190916650143318016)
+![playing](https://dev.discordprofiles.me/badge/playing/190916650143318016)
+![vscode](https://dev.discordprofiles.me/badge/vscode/190916650143318016)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/190916650143318016)](https://dev.discordprofiles.me/openspotify/190916650143318016)
 
 ### My Languages 💬
 - Java
