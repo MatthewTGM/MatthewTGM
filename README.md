@@ -8,6 +8,8 @@
 - Groovy
 - JavaScript
 - TypeScript
+- C
+- C++
 - Python
 
 ---
