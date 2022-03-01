@@ -23,6 +23,14 @@
 
 ---
 
+### Projects ❤️
+- [Deftoy](https://github.com/Deftu/Deftoy)
+- [OofMod v4](https://github.com/Deftu/OofMod)
+- [Deftils](https://github.com/Deftu/Deftils)
+- [QuickSocket](https://github.com/Deftu/QuickSocket)
+
+---
+
 ### Latest YouTube content ▶
 <!-- YOUTUBE:START -->
 - [The end of my old server.](https://www.youtube.com/watch?v=r-Le0hKLcgQ)
