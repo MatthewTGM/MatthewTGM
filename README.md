@@ -44,11 +44,9 @@
 
 ### Statistics 📜
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deftu&card_width=400&langs_count=10&hide_border=true&theme=onedark" />
-  <br>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Deftu&show_icons=trye&line_height=27&theme=onedark&hide_border=true" />
-  <br>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Deftu&theme=onedark&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deftu&card_width=400&langs_count=10&hide_border=true&theme=onedark" />  
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Deftu&show_icons=trye&line_height=27&theme=onedark&hide_border=true" />  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Deftu&theme=onedark&hide_border=true" />  
 </a>
 
 [website]: https://deftu.xyz/
