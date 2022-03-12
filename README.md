@@ -52,5 +52,5 @@
 [twitter]: https://twitter.com/@RealDeftu
 [youtube]: https://www.youtube.com/channel/UCJAR--rGr012udfBDBwHO-g
 [instagram]: https://www.instagram.com/deftudev/
-[discord]: https://discord.gg/UtRrNc26xG
+[discord]: https://discord.gg/dFb277Kexf
 [linkedin]: https://www.linkedin.com/in/matthew-vaughan-047800226
