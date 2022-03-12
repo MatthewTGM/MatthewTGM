@@ -24,6 +24,9 @@
 ---
 
 ### Projects ❤️
+- [UnifyCraft](https://github.com/UnifyCraft)
+  - [UniCore](https://github.com/UnifyCraft/UniCore)
+  - [Confide](https://github.com/UnifyCraft/Confide)
 - [Deftoy](https://github.com/Deftu/Deftoy)
 - [OofMod v4](https://github.com/Deftu/OofMod)
 - [Deftils](https://github.com/Deftu/Deftils)
