@@ -29,10 +29,8 @@
 ### Projects ❤️
 - [UnifyCraft](https://github.com/UnifyCraft)
   - [UniCore](https://github.com/UnifyCraft/UniCore)
-  - [Confide](https://github.com/UnifyCraft/Confide)
-  - [LoomShadow](https://github.com/UnifyCraft/LoomShadow)
-  - [UniBuild](https://github.com/UnifyCraft/UniBuild)
-  - [Resourcepack Controller](https://github.com/UnifyCraft/ResourcepackController)
+  - [Configured](https://github.com/UnifyCraft/Configured)
+  - [Gradle Toolkit](https://github.com/UnifyCraft/Gradle-Toolkit)
 - [Deftoy](https://github.com/Deftu/Deftoy)
 - [OofMod v4](https://github.com/Deftu/OofMod)
 - [Deftils](https://github.com/Deftu/Deftils)
