@@ -1,3 +1,6 @@
+# My official statement on my ongoing issues with the Minecraft 1.8 modding community.
+![Image](https://cdn.upload.systems/uploads/xHDPl7xh.png)
+
 # Hello there! 👋
 
 ## I'm [Deftu][website], a developer and gamer.
