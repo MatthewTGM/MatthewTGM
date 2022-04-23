@@ -1,5 +1,28 @@
-# My official statement on my ongoing issues with the Minecraft 1.8 modding community.
-![Image](https://cdn.upload.systems/uploads/xHDPl7xh.png)
+# My stance against Minecraft 1.8 modding
+I will no longer be developing Minecraft mods
+for game version **1.8**. This version is well
+over 6 and a half years old, meaning it uses old
+standards and an old codebase. The game is also
+riddled with bugs and is incredibly unoptimized.
+Most of the issues above, however, have been fixed
+by mods such as Patcher by Sk1er LLC. The main
+reasons I have for disregarding the game version
+altogether is the community. The modding and player
+communities are toxic beyond belief and are incredibly
+malicious in their actions. If needed, I give full
+permission for anything I make to be forked and
+remade for earlier versions of the game. I will not
+be creating official implementations for these
+legacy versions.
+
+I'd like to thank everyone who has supported
+me in my adventures of being a legacy
+Minecraft modder. The support was unreal,
+and it was truly amazing to work with some
+of the people I did when I was embarking
+on my long journey. ❤️
+
+---
 
 # Hello there! 👋
 
