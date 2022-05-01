@@ -1,11 +1,3 @@
-# Notice
-If you're seeing this, all I ask
-is that you please bump
-[this tweet](https://twitter.com/RealDeftu/status/1517890683922784256?s=20&t=rnM5j-8oy0bqIVNNgvCSgQ)
-to help me spread awareness of
-the toxicity and double standards
-in the Minecraft modding community!
-
 # Hello there! 👋
 
 ## I'm [Deftu][website], a developer and gamer.
