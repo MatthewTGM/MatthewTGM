@@ -2,6 +2,8 @@
 
 ## I'm [Deftu][website], a developer and gamer.
 
+![Profile Views](https://komarev.com/ghpvc/?username=deftu)
+
 ### My Languages 💬
 - Java
 - Kotlin
