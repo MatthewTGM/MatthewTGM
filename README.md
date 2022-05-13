@@ -39,7 +39,7 @@
 
 ### Latest YouTube content ▶
 <!-- YOUTUBE:START -->
-- [Playing Hypixel SkyBlock](https://www.youtube.com/watch?v=7sjpJrHFnbk)
+- [Designing UniCore](https://www.youtube.com/watch?v=-URGDPX2Sms)
 <!-- YOUTUBE:END -->
 
 ---
