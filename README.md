@@ -50,11 +50,11 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deftu&card_width=400&langs_count=10&hide_border=true&theme=onedark)\
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Deftu&theme=onedark&hide_border=true)
 
-[website]: https://deftu.xyz/
+[website]: https://www.deftu.xyz/
 [twitter]: https://twitter.com/@RealDeftu
 [youtube]: https://www.youtube.com/channel/UCJAR--rGr012udfBDBwHO-g
 [instagram]: https://www.instagram.com/deftudev/
-[discord]: https://discord.gg/dFb277Kexf
+[discord]: https://shr.deftu.xyz/discord
 [linkedin]: https://www.linkedin.com/in/matthew-vaughan-047800226
 
 ---
