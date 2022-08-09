@@ -30,8 +30,9 @@
   - [UniCore](https://github.com/UnifyCraft/UniCore)
   - [Configured](https://github.com/UnifyCraft/Configured)
   - [Gradle Toolkit](https://github.com/UnifyCraft/Gradle-Toolkit)
-- [Deftoy](https://github.com/Deftu/Deftoy)
 - [OofMod v4](https://github.com/Deftu/OofMod)
+- [Screencapper](https://www.curseforge.com/minecraft/mc-mods/screencapper)
+- [CrashBrander](https://www.curseforge.com/minecraft/mc-mods/crashbrander)
 - [Deftils](https://github.com/Deftu/Deftils)
 - [QuickSocket](https://github.com/Deftu/QuickSocket)
 
