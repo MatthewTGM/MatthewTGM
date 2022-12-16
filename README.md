@@ -1,6 +1,8 @@
 # Hello there! 👋
 
-## I'm [Deftu][website], a developer and gamer.
+## I'm [Deftu][website]!
+
+I'm a fullstack software developer,
 
 ### My Languages 💬
 - Java
@@ -24,15 +26,18 @@
 ---
 
 ### Projects ❤️
-- [UnifyCraft](https://github.com/UnifyCraft)
-  - [UniCore](https://github.com/UnifyCraft/UniCore)
-  - [Configured](https://github.com/UnifyCraft/Configured)
-  - [Gradle Toolkit](https://github.com/UnifyCraft/Gradle-Toolkit)
-- [OofMod v4](https://github.com/Deftu/OofMod)
-- [Screencapper](https://www.curseforge.com/minecraft/mc-mods/screencapper)
-- [CrashBrander](https://www.curseforge.com/minecraft/mc-mods/crashbrander)
+- [Gradle Toolkit](https://github.com/Deftu/Gradle-Toolkit)
+- [Deftbin](https://github.com/Deftu/Deftbin)
+- [CraftProcessor](https://github.com/Deftu/CraftProcessor)
+- [Spruce Loader](https://github.com/SpruceLoader)
+- [DeftuLib](https://github.com/Deftu/DeftuLib)
+- [UniCore](https://github.com/Deftu/UniCore)
+- [Configured](https://github.com/Deftu/Configured)
+- [Noteable](https://github.com/Deftu/Noteable)
+- [CrashBrander](https://github.com/Deftu/CrashBrander)
+- [Screencapper](https://github.com/Deftu/Screencapper)
+- [DeftuDownloadCounter](https://github.com/Deftu/DeftuDownloadCounter)
 - [Deftils](https://github.com/Deftu/Deftils)
-- [QuickSocket](https://github.com/Deftu/QuickSocket)
 
 ---
 
