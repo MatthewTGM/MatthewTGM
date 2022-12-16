@@ -2,8 +2,6 @@
 
 ## I'm [Deftu][website], a developer and gamer.
 
-![Profile Views](https://komarev.com/ghpvc/?username=deftu)
-
 ### My Languages 💬
 - Java
 - Kotlin
@@ -51,14 +49,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deftu&card_width=400&langs_count=10&hide_border=true&theme=onedark)\
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Deftu&theme=onedark&hide_border=true)
 
-[website]: https://www.deftu.xyz/
-[twitter]: https://twitter.com/@RealDeftu
-[youtube]: https://www.youtube.com/channel/UCJAR--rGr012udfBDBwHO-g
-[instagram]: https://www.instagram.com/deftudev/
+[website]: https://deftu.xyz/
+[twitter]: https://twitter.com/DeftuDev
+[youtube]: https://www.youtube.com/@deftudev
+[instagram]: https://www.instagram.com/deftudev
 [discord]: https://shr.deftu.xyz/discord
 [linkedin]: https://www.linkedin.com/in/matthew-vaughan-047800226
-
----
-
-### Credits 💞
-Profile picture and banner made by [Zetvue](https://github.com/Zetvue)
