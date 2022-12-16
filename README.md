@@ -2,7 +2,7 @@
 
 ## I'm [Deftu][website]!
 
-I'm a fullstack software developer,
+I'm a fullstack software developer and novice designer. I ❤️ with a passion and make open-source, self-hostable software for all.
 
 ### My Languages 💬
 - Java
@@ -52,9 +52,9 @@ I'm a fullstack software developer,
 ---
 
 ### Statistics 📜
-**These statistics are supplied by [this GitHub project](https://github.com/anuraghazra/github-readme-stats).**\
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deftu&show_icons=trye&line_height=27&theme=onedark&hide_border=true)\
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deftu&card_width=400&langs_count=10&hide_border=true&theme=onedark)\
+**These statistics are supplied by [this GitHub project](https://github.com/anuraghazra/github-readme-stats).**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deftu&show_icons=trye&line_height=27&theme=onedark&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deftu&card_width=400&langs_count=10&hide_border=true&theme=onedark)  
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Deftu&theme=onedark&hide_border=true)
 
 [website]: https://deftu.xyz/
