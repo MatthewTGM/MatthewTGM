@@ -2,7 +2,8 @@
 
 ## I'm [Deftu][website]!
 
-I'm a fullstack software developer and novice designer. I ❤️ with a passion and make open-source, self-hostable software for all.
+I'm a fullstack software developer and novice designer.  
+I ❤️ open-source with a passion and make open-source, self-hostable software for all.
 
 ### My Languages 💬
 - Java
