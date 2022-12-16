@@ -13,6 +13,9 @@ I'm a fullstack software developer,
 - C
 - C++
 - Python
+- HTML
+- CSS
+- Go
 
 ---
 
