@@ -47,7 +47,7 @@ I ❤️ open-source with a passion and make open-source, self-hostable software
 
 ### Latest YouTube content ▶
 <!-- YOUTUBE:START -->
-- [Playing Fortnite w/ friends!](https://www.youtube.com/watch?v=SUqy8EWmi7k)
+- [Playing Fortnite w/ IRLs!](https://www.youtube.com/watch?v=xdHjxN5WAhA)
 <!-- YOUTUBE:END -->
 
 ---
