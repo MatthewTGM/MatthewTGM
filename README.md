@@ -47,11 +47,11 @@ I ❤️ open-source with a passion and make open-source, self-hostable software
 
 ### Latest YouTube content ▶
 <!-- YOUTUBE:START -->
+- [[REUPLOAD] &lpar;PippenFTS&rpar; Modding Just Broke in Minecraft - Here&#39;s What Happened](https://www.youtube.com/watch?v=WD6ZwfHDYWU)
 - [Working on the DeftuLib mod](https://www.youtube.com/watch?v=tqCutVG1nd4)
 - [Working on Deftbin](https://www.youtube.com/watch?v=OkmywEjoIoo)
 - [Working on Deftbin](https://www.youtube.com/watch?v=7GvaBNa5kNs)
 - [Playing Fortnite w/ IRLs!](https://www.youtube.com/watch?v=xdHjxN5WAhA)
-- [Test](https://www.youtube.com/watch?v=_sFjM4NsH2U)
 <!-- YOUTUBE:END -->
 
 ---
