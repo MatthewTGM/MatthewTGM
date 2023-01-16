@@ -47,11 +47,11 @@ I ❤️ open-source with a passion and make open-source, self-hostable software
 
 ### Latest YouTube content ▶
 <!-- YOUTUBE:START -->
-- [Call of Duty Black Ops 3 - Der Eisendrache](https://www.youtube.com/watch?v=7Va0P16NNqM)
 - [Working on Deftbin!](https://www.youtube.com/watch?v=-K8xQM9Z1aA)
 - [DAYWALKER! &lpar;Mini Fortnite Montage&rpar;](https://www.youtube.com/watch?v=gw5TDTOs03M)
 - [Test Beat Sync 2](https://www.youtube.com/watch?v=-2AoQl7DcC8)
 - [Beat Sync Test](https://www.youtube.com/watch?v=KZeRZ9xMIvw)
+- [💀](https://www.youtube.com/watch?v=HNkNGczZ-Nc)
 <!-- YOUTUBE:END -->
 
 ---
