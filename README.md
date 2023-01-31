@@ -15,17 +15,12 @@ I'm a fullstack software developer and novice designer.
 I ❤️ open-source with a passion and make open-source, self-hostable software for all.
 
 ### My Languages 💬
-- Java
-- Kotlin
-- Groovy
-- JavaScript
-- TypeScript
-- C
-- C++
-- Python
-- HTML
-- CSS
-- Go
+|    Java    |   Kotlin   | Groovy |
+|:----------:|:----------:|:------:|
+| JavaScript | TypeScript |    C   |
+|     C++    |     C#     | Python |
+|    HTML    |     CSS    |   Go   |
+|    Rust    |            |        |
 
 ---
 
