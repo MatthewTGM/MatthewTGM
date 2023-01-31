@@ -14,7 +14,7 @@
 I'm a fullstack software developer and novice designer.  
 I ❤️ open-source with a passion and make open-source, self-hostable software for all.
 
-### My Languages 💬
+## My Languages 💬
 |    Java    |   Kotlin   | Groovy |
 |:----------:|:----------:|:------:|
 | JavaScript | TypeScript |    C   |
@@ -24,13 +24,13 @@ I ❤️ open-source with a passion and make open-source, self-hostable software
 
 ---
 
-# Other Connections 🔗
+## Other Connections 🔗
 - [Instagram][instagram]
 - [LinkedIn][linkedin]
 
 ---
 
-### Latest YouTube content ▶
+## Latest YouTube content ▶
 <!-- YOUTUBE:START -->
 - [Call of Duty Black Ops 3 - Der Eisendrache](https://www.youtube.com/watch?v=7Va0P16NNqM)
 - [Working on Deftbin!](https://www.youtube.com/watch?v=-K8xQM9Z1aA)
@@ -41,7 +41,7 @@ I ❤️ open-source with a passion and make open-source, self-hostable software
 
 ---
 
-### Statistics 📜
+## Statistics 📜
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deftu&show_icons=true&line_height=27&theme=onedark&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deftu&card_width=400&langs_count=10&layout=compact&hide_border=true&theme=onedark)  
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Deftu&theme=onedark&hide_border=true)
