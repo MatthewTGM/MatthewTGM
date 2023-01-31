@@ -3,7 +3,7 @@
 I'm a fullstack software developer and novice designer.  
 I ❤️ open-source with a passion and make open-source, self-hostable software for all.
 
-[![Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-singular_vector.svg)][discord]
+[![Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-singular_64h.png)][discord]
 
 ### My Languages 💬
 - Java
