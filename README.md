@@ -4,6 +4,14 @@ I'm a fullstack software developer and novice designer.
 I ❤️ open-source with a passion and make open-source, self-hostable software for all.
 
 [![Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-singular_64h.png)][discord]
+[![YouTube](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/youtube-singular_64h.png)][youtube]
+[![Twitter](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/twitter-singular_64h.png)][twitter]
+[![Mastodon](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/mastodon-singular_64h.png)][mastodon]
+[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/modrinth_64h.png)][modrinth]
+[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/curseforge_64h.png)][curseforge]
+
+- [Instagram][instagram]
+- [LinkedIn][linkedin]
 
 ### My Languages 💬
 - Java
@@ -17,15 +25,6 @@ I ❤️ open-source with a passion and make open-source, self-hostable software
 - HTML
 - CSS
 - Go
-
----
-
-### Connections 🔗
-- [Twitter][twitter]
-- [YouTube][youtube]
-- [Instagram][instagram]
-- [Discord][discord]
-- [LinkedIn][linkedin]
 
 ---
 
@@ -63,8 +62,12 @@ I ❤️ open-source with a passion and make open-source, self-hostable software
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Deftu&theme=onedark&hide_border=true)
 
 [website]: https://deftu.xyz/
-[twitter]: https://twitter.com/DeftuDev
-[youtube]: https://www.youtube.com/@deftudev
-[instagram]: https://www.instagram.com/deftudev
+
 [discord]: https://shr.deftu.xyz/discord
+[youtube]: https://www.youtube.com/@deftudev
+[twitter]: https://twitter.com/DeftuDev
+[mastodon]: https://floss.social/@deftu
+[modrinth]: https://modrinth.com/user/deftu
+[curseforge]: https://www.curseforge.com/members/deftudev
+[instagram]: https://www.instagram.com/deftudev
 [linkedin]: https://www.linkedin.com/in/matthew-vaughan-047800226
