@@ -14,9 +14,6 @@ I ❤️ open-source with a passion and make open-source, self-hostable software
   
 </div>
 
-- [Instagram][instagram]
-- [LinkedIn][linkedin]
-
 ### My Languages 💬
 - Java
 - Kotlin
@@ -32,19 +29,9 @@ I ❤️ open-source with a passion and make open-source, self-hostable software
 
 ---
 
-### Projects ❤️
-- [Gradle Toolkit](https://github.com/Deftu/Gradle-Toolkit)
-- [Deftbin](https://github.com/Deftu/Deftbin)
-- [CraftProcessor](https://github.com/Deftu/CraftProcessor)
-- [Spruce Loader](https://github.com/SpruceLoader)
-- [DeftuLib](https://github.com/Deftu/DeftuLib)
-- [UniCore](https://github.com/Deftu/UniCore)
-- [Configured](https://github.com/Deftu/Configured)
-- [Noteable](https://github.com/Deftu/Noteable)
-- [CrashBrander](https://github.com/Deftu/CrashBrander)
-- [Screencapper](https://github.com/Deftu/Screencapper)
-- [DeftuDownloadCounter](https://github.com/Deftu/DeftuDownloadCounter)
-- [Deftils](https://github.com/Deftu/Deftils)
+# Other Connections 🔗
+- [Instagram][instagram]
+- [LinkedIn][linkedin]
 
 ---
 
