@@ -1,7 +1,6 @@
-# I'm [Deftu][website]!
+<div align="center">
 
-I'm a fullstack software developer and novice designer.  
-I ❤️ open-source with a passion and make open-source, self-hostable software for all.
+# I'm [Deftu][website]!
 
 [![Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-singular_64h.png)][discord]
 [![YouTube](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/youtube-singular_64h.png)][youtube]
@@ -9,6 +8,11 @@ I ❤️ open-source with a passion and make open-source, self-hostable software
 [![Mastodon](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/mastodon-singular_64h.png)][mastodon]
 [![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/modrinth_64h.png)][modrinth]
 [![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/curseforge_64h.png)][curseforge]
+
+I'm a fullstack software developer and novice designer.  
+I ❤️ open-source with a passion and make open-source, self-hostable software for all.
+  
+</div>
 
 - [Instagram][instagram]
 - [LinkedIn][linkedin]
