@@ -8,11 +8,11 @@
 [![Mastodon](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/mastodon-singular_64h.png)][mastodon]
 [![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/modrinth_64h.png)][modrinth]
 [![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/curseforge_64h.png)][curseforge]
+  
+</div>
 
 I'm a fullstack software developer and novice designer.  
 I ❤️ open-source with a passion and make open-source, self-hostable software for all.
-  
-</div>
 
 ### My Languages 💬
 - Java
@@ -47,11 +47,9 @@ I ❤️ open-source with a passion and make open-source, self-hostable software
 ---
 
 ### Statistics 📜
-<a href="https://github.com/anuraghazra/github-readme-stats" style="display: flex; flex-direction: column;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deftu&show_icons=true&line_height=27&theme=onedark&hide_border=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deftu&card_width=400&langs_count=10&layout=compact&hide_border=true&theme=onedark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Deftu&theme=onedark&hide_border=true" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deftu&show_icons=true&line_height=27&theme=onedark&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deftu&card_width=400&langs_count=10&layout=compact&hide_border=true&theme=onedark)  
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Deftu&theme=onedark&hide_border=true)
 
 [website]: https://deftu.xyz/
 
