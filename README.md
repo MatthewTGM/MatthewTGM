@@ -32,11 +32,11 @@ I ❤️ open-source with a passion and make open-source, self-hostable software
 
 ## Latest YouTube content ▶
 <!-- YOUTUBE:START -->
+- [Working on Componency](https://www.youtube.com/watch?v=RIhxOSuqjcA)
 - [Working on the Componency library!](https://www.youtube.com/watch?v=lZ8Y9zM6HaU)
 - [Working on the Componency library!](https://www.youtube.com/watch?v=7AxUQbtVHew)
 - [CoD Bo3 - Shadows of Evil](https://www.youtube.com/watch?v=jFF43ZgN8l4)
 - [Call of Duty Black Ops 3 - Der Eisendrache](https://www.youtube.com/watch?v=7Va0P16NNqM)
-- [Working on Deftbin!](https://www.youtube.com/watch?v=-K8xQM9Z1aA)
 <!-- YOUTUBE:END -->
 
 ---
