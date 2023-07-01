@@ -32,11 +32,11 @@ I ❤️ open-source with a passion and make open-source, self-hostable software
 
 ## Latest YouTube content ▶
 <!-- YOUTUBE:START -->
+- [Aiming sure is fun! &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=8KlPlrMs1LI)
 - [Kiriko headshots go hard &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=vaJei2whKVA)
 - [Poor Lucio got double headshot by Kiri &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=b93Njdqop10)
 - [Huge Junker Queen rampage &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=EzA9Qb8iDs0)
 - [Easy Sombra carry at 36-1 &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=s3MFiwbhKsw)
-- [Working on Componency](https://www.youtube.com/watch?v=nhlwHc6kiP4)
 <!-- YOUTUBE:END -->
 
 ---
