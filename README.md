@@ -32,11 +32,11 @@ I ❤️ open-source with a passion and make open-source, self-hostable software
 
 ## Latest YouTube content ▶
 <!-- YOUTUBE:START -->
+- [Poor Lucio got double headshot by Kiri &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=b93Njdqop10)
+- [Huge Junker Queen rampage &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=EzA9Qb8iDs0)
+- [Easy Sombra carry at 36-1 &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=s3MFiwbhKsw)
 - [Working on Componency](https://www.youtube.com/watch?v=nhlwHc6kiP4)
 - [Working on Componency](https://www.youtube.com/watch?v=RIhxOSuqjcA)
-- [Working on the Componency library!](https://www.youtube.com/watch?v=lZ8Y9zM6HaU)
-- [Working on the Componency library!](https://www.youtube.com/watch?v=7AxUQbtVHew)
-- [CoD Bo3 - Shadows of Evil](https://www.youtube.com/watch?v=jFF43ZgN8l4)
 <!-- YOUTUBE:END -->
 
 ---
