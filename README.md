@@ -32,11 +32,11 @@ I ❤️ open-source with a passion and make open-source, self-hostable software
 
 ## Latest YouTube content ▶
 <!-- YOUTUBE:START -->
+- [How was this solo 4k as Kiriko not PoTG? &lpar;Overwatch Highlight&rpar;](https://www.youtube.com/watch?v=quA5SdAV-hU)
 - [Aiming sure is fun! &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=8KlPlrMs1LI)
 - [Kiriko headshots go hard &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=vaJei2whKVA)
 - [Poor Lucio got double headshot by Kiri &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=b93Njdqop10)
 - [Huge Junker Queen rampage &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=EzA9Qb8iDs0)
-- [Easy Sombra carry at 36-1 &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=s3MFiwbhKsw)
 <!-- YOUTUBE:END -->
 
 ---
