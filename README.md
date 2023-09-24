@@ -32,11 +32,11 @@ I ❤️ open-source with a passion and make open-source, self-hostable software
 
 ## Latest YouTube content ▶
 <!-- YOUTUBE:START -->
+- [Flank tactical visor &lpar;Overwatch 2 PoTG&rpar;](https://www.youtube.com/watch?v=lOjQrBD4TVo)
 - [Turret child &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=0zSFLp6laSc)
 - [Poor Genji got nanoed, bladed and then destroyed. &lpar;Overwatch Clip&rpar;](https://www.youtube.com/watch?v=B0KEa4u5fIU)
 - [I ruined Genji&#39;s blade as Widowmaker. &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=NAanBQxYuCA)
 - [I pressed pressed Q on Moira! &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=1vChYJmDsY0)
-- [B.O.B and I hit some good shots &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=bfjfmJYhEos)
 <!-- YOUTUBE:END -->
 
 ---
