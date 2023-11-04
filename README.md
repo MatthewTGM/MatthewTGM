@@ -32,11 +32,11 @@ I ❤️ open-source with a passion and make open-source, self-hostable software
 
 ## Latest YouTube content ▶
 <!-- YOUTUBE:START -->
+- [Insane Widowmaker 5k &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=UEQBgB-VSAM)
 - [Girlbossing a Pharmercy all on my own. &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=G1FJi8rIpkU)
 - [Quick and easy Widow 3K &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=pzwfWNqyifw)
 - [Well damn, a Mercy 3K &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=6KUN94QLHkw)
 - [Widow shuts down Reaper&#39;s beyblade &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=wb7oAhceFd0)
-- [Flank tactical visor &lpar;Overwatch 2 PoTG&rpar;](https://www.youtube.com/watch?v=lOjQrBD4TVo)
 <!-- YOUTUBE:END -->
 
 ---
