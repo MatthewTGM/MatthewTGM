@@ -32,11 +32,7 @@ I ❤️ open-source with a passion and make open-source, self-hostable software
 
 ## Latest YouTube content ▶
 <!-- YOUTUBE:START -->
-- [Easy 3k w/ Echo/Bastion &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=iauOn08dl_c)
-- [Deadeye 5k w/ Cassidy &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=3dcvT5gouu0)
-- [Insane Widowmaker 5k &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=UEQBgB-VSAM)
-- [Girlbossing a Pharmercy all on my own. &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=G1FJi8rIpkU)
-- [Quick and easy Widow 3K &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=pzwfWNqyifw)
+- [[REUPLOAD] &lpar;PippenFTS&rpar; Modding Just Broke in Minecraft - Here&#39;s What Happened](https://www.youtube.com/watch?v=WD6ZwfHDYWU)
 <!-- YOUTUBE:END -->
 
 ---
