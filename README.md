@@ -32,6 +32,7 @@ I ❤️ open-source with a passion and make open-source, self-hostable software
 
 ## Latest YouTube content ▶
 <!-- YOUTUBE:START -->
+- [Echo sounds a little funny... #shorts #overwatch2](https://www.youtube.com/watch?v=udCc14lEDkY)
 - [[REUPLOAD] &lpar;PippenFTS&rpar; Modding Just Broke in Minecraft - Here&#39;s What Happened](https://www.youtube.com/watch?v=WD6ZwfHDYWU)
 <!-- YOUTUBE:END -->
 
