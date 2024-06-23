@@ -32,7 +32,6 @@ I ❤️ open-source with a passion and make open-source, self-hostable software
 
 ## Latest YouTube content ▶
 <!-- YOUTUBE:START -->
-- [Widow hits a gross 3K &lpar;Overwatch PoTG&rpar;](https://www.youtube.com/watch?v=8Ar0DHTQKWI)
 - [The most perfect Lucio rollout I&#39;ve ever done &lpar;Overwatch Clip&rpar;](https://www.youtube.com/watch?v=38TREKbgKq4)
 - [Cool tech with Venture in Overwatch 2 #shorts](https://www.youtube.com/watch?v=_xOrUyxr2SY)
 - [Echo sounds a little funny... #shorts #overwatch2](https://www.youtube.com/watch?v=udCc14lEDkY)
