@@ -24,6 +24,17 @@ I ❤️ open-source with a passion and make open-source, self-hostable software
 
 ---
 
+## 👀 Things I work on / People I work with
+- [Polyfrost](https://github.com/Polyfrost)
+- [AuraSide](https://github.com/AuraSide)
+- [Mantle](https://github.com/AuraSide) ([Website](https://mantle.gg))
+- [Spruce Loader](https://github.com/SpruceLoader)
+- [Disko](https://github.com/DiskoLib)
+- [Ezrique](https://github.com/Ezrique)
+- And all of my personal projects!
+
+---
+
 ## ⏯️ Latest YouTube content
 <!-- YOUTUBE:START -->
 - [The most perfect Lucio rollout I&#39;ve ever done &lpar;Overwatch Clip&rpar;](https://www.youtube.com/watch?v=38TREKbgKq4)
