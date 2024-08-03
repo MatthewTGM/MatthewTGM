@@ -19,8 +19,8 @@ I ❤️ open-source with a passion and make open-source, self-hostable software
 
 ---
 
-### Want a commission? A customized Minecraft mod? [Click me!](https://s.deftu.dev/commissions).
-#### Already have a commission? [Click here to see my commission board](https://s.deftu.dev/commission-board)
+### Want a commission? A customized Minecraft mod? [Click me](https://s.deftu.dev/commissions)!
+#### Already have a commission? [Click here to see my commission board](https://s.deftu.dev/commission-board).
 
 ---
 
